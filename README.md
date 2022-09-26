@@ -1,4 +1,4 @@
-# TaBe-RecipeApp
+# TaBe: Recipe App
 
 ## Project Name: TaBe
 ### Team Members: Andre Acebal, Blake Warner, Charlie Phelps, Kyler Severance
